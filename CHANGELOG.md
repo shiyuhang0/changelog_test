@@ -1,7 +1,7 @@
 <a name="v0.0.2"></a>
 # [release 0.0.2 (v0.0.2)](https://github.com/shiyuhang0/changelog_test/releases/tag/v0.0.2) - 13 Jun 2022
 
-da
+dafsa_update
 
 [Changes][v0.0.2]
 
