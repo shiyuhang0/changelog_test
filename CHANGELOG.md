@@ -1,7 +1,7 @@
 <a name="v0.4"></a>
 # [v0.4](https://github.com/shiyuhang0/changelog_test/releases/tag/v0.4) - 13 Jun 2022
 
-hh
+hh-up
 
 [Changes][v0.4]
 
