@@ -1,7 +1,7 @@
 name: On release published
 on:
   release:
-    types: [published,released]
+    types: [published]
 
 jobs:
   changelog_master:
