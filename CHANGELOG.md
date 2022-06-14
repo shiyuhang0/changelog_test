@@ -1,3 +1,19 @@
+<a name="v0.4"></a>
+# [v0.4](https://github.com/shiyuhang0/changelog_test/releases/tag/v0.4) - 13 Jun 2022
+
+v3_update
+
+[Changes][v0.4]
+
+
+<a name="v0.3"></a>
+# [0.3 (v0.3)](https://github.com/shiyuhang0/changelog_test/releases/tag/v0.3) - 13 Jun 2022
+
+t
+
+[Changes][v0.3]
+
+
 <a name="v0.0.2"></a>
 # [release 0.0.2 (v0.0.2)](https://github.com/shiyuhang0/changelog_test/releases/tag/v0.0.2) - 13 Jun 2022
 
@@ -15,6 +31,8 @@ dafsa_update
 [Changes][v0.0.1]
 
 
+[v0.4]: https://github.com/shiyuhang0/changelog_test/compare/v0.3...v0.4
+[v0.3]: https://github.com/shiyuhang0/changelog_test/compare/v0.0.2...v0.3
 [v0.0.2]: https://github.com/shiyuhang0/changelog_test/compare/v0.0.1...v0.0.2
 [v0.0.1]: https://github.com/shiyuhang0/changelog_test/tree/v0.0.1
 
